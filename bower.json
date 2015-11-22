@@ -1,0 +1,10 @@
+{
+  "name": "angular-lightbox",
+  "version": "0.0.1",
+  "main": "dist/angular-lightbox.js",
+  "dependencies": {
+    "angular": "~1.3.15",
+    "angular-mocks": "~1.3.15",
+    "angular-scenario": "~1.3.15"
+  }
+}
